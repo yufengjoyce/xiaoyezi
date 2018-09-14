@@ -1,2 +1,2 @@
 # xiaoyezi
-fun
+print "hello world"
